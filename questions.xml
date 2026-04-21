@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE test SYSTEM "dtd_test.dtd">
+
+<test>
+
+  <question id = "1">
+    <wording>What is the first Pokemon in the National Pokedex?</wording>
+    <choices>
+      <choice correct ="yes">Bulbasaur</choice>
+      <choice correct ="no">Charmander</choice>
+      <choice correct ="no">Squirtle</choice>
+      <choice correct ="no">Pikachu</choice>
+
+    </choices>
+  </question>
+
+  <question id = "2">
+    <wording>Which is the only pure Ghost-type Pokemon among the following?</wording>
+    <choices>
+      <choice correct ="no">Gengar</choice>
+      <choice correct ="no">Mimikyu</choice>
+      <choice correct ="yes">Mismagius</choice>
+      <choice correct ="no">Froslass</choice>
+
+    </choices>
+  </question>
+
+  <question id = "3">
+    <wording>Which Pokemon has number 150 in the National Pokedex?</wording>
+    <choices>
+      <choice correct ="no">Mew</choice>
+      <choice correct ="yes">Mewtwo</choice>
+      <choice correct ="no">Slowbro</choice>
+      <choice correct ="no">Meowth</choice>
+
+    </choices>
+  </question>
+
+<question id = "4">
+    <wording>Which of the following types is immune to Dragon-type attacks?</wording>
+    <choices>
+      <choice correct ="no">Dragon</choice>
+      <choice correct ="no">Fire</choice>
+      <choice correct ="no">Dark</choice>
+      <choice correct ="yes">Fairy</choice>
+
+    </choices>
+  </question>
+
+  <question id = "5">
+    <wording>Which of Ash's Pokémon won its first battle in the Indigo Plateau League in the anime?</wording>
+    <choices>
+      <choice correct ="no">Pikachu</choice>
+      <choice correct ="no">Charizard</choice>
+      <choice correct ="yes">Kingler</choice>
+      <choice correct ="no">Pidgeot</choice>
+
+    </choices>
+  </question>
+
+<question id = "6">
+    <wording>Which Pokémon were given in an exclusive Japan event for "Pokémon Ruby and Sapphire" after the release of the movie "Lucario and the Mystery of Mew"?</wording>
+    <choices>
+      <choice correct ="yes">Regirock, Registeel y Regice</choice>
+      <choice correct ="no">Lucario</choice>
+      <choice correct ="no">Mew</choice>
+      <choice correct ="no">Lucario y Mew</choice>
+
+    </choices>
+  </question>
+
+<question id = "7">
+    <wording>What is the name of the Pokémon whose lair is located on Ula-Ula Island?</wording>
+    <choices>
+      <choice correct ="no">Blacephalon</choice>
+      <choice correct ="yes">Tapu-Bulu</choice>
+      <choice correct ="no">Necrozma</choice>
+      <choice correct ="no">Solgaleo</choice>
+
+    </choices>
+  </question>
+
+<question id = "8">
+    <wording>Which of these Pokémon can use the move "Dark Void"?</wording>
+    <choices>
+      <choice correct ="no">Suicune</choice>
+      <choice correct ="yes">Darkrai</choice>
+      <choice correct ="no">Zarude</choice>
+      <choice correct ="no">Eternatus</choice>
+
+    </choices>
+  </question>
+
+<question id = "9">
+    <wording>Which Pokémon were the first to appear in the anime?</wording>
+    <choices>
+      <choice correct ="no">Pikachu y Raichu</choice>
+      <choice correct ="no">Charizard, Blastoise y Venusaur</choice>
+      <choice correct ="no">Eevee</choice>
+      <choice correct ="yes">Gengar y Nidorino</choice>
+
+    </choices>
+  </question>
+
+  <question id = "10">
+    <wording>What are the types of Alolan Marowak?</wording>
+    <choices>
+      <choice correct ="no">Tierra y Agua</choice>
+      <choice correct ="no">Planta y Tierra</choice>
+      <choice correct ="yes">Fuego y Fantasma</choice>
+      <choice correct ="no">Tierra y Roca</choice>
+
+    </choices>
+  </question>
+
+  <question id = "11">
+    <wording>Which was the first league that Ash won in the anime?</wording>
+    <choices>
+      <choice correct ="no">Kalos</choice>
+      <choice correct ="yes">Alola</choice>
+      <choice correct ="no">Johto</choice>
+      <choice correct ="no">Sinnoh</choice>
+
+    </choices>
+  </question>
+
+ <question id = "12">
+    <wording>What item does Gligar need to evolve into Gliscor?</wording>
+    <choices>
+      <choice correct ="no">Dusk Stone</choice>
+      <choice correct ="no">Electirizer</choice>
+      <choice correct ="no">Dragon Scale</choice>
+      <choice correct ="yes">Razor Fang</choice>
+
+    </choices>
+  </question>
+
+  <question id = "13">
+    <wording>Which Pokémon is known as the "Balance Pokémon"?</wording>
+    <choices>
+      <choice correct ="no">Xerneas</choice>
+      <choice correct ="yes">Zygarde</choice>
+      <choice correct ="no">Yveltal</choice>
+      <choice correct ="no">No existe</choice>
+
+    </choices>
+  </question>
+
+  <question id = "14">
+    <wording>Which of these fossil Pokémon was caught by Ash in the anime?</wording>
+    <choices>
+      <choice correct ="yes">Dracovish</choice>
+      <choice correct ="no">Kabutops</choice>
+      <choice correct ="no">Rampardos</choice>
+      <choice correct ="no">Tyrunt</choice>
+
+    </choices>
+  </question>
+
+   <question id = "15">
+    <wording>Which mechanic was introduced in the seventh generation?</wording>
+    <choices>
+      <choice correct ="no">Mega Evolution/choice>
+      <choice correct ="no">Terastallization</choice>
+      <choice correct ="no">Dynamax and Gigamax</choice>
+      <choice correct ="yes">Z-Moves</choice>
+
+    </choices>
+  </question>
+
+   <question id = "16">
+    <wording>Which Pokémon did Ash trade in Sinnoh for Dawn's Buizel?</wording>
+    <choices>
+      <choice correct ="no">Turtwig</choice>
+      <choice correct ="yes">Aipom</choice>
+      <choice correct ="no">Butterfree</choice>
+      <choice correct ="no">Chimchar</choice>
+
+    </choices>
+  </question>
+
+  <question id = "17">
+    <wording>Where was Ash's Charizard training?</wording>
+    <choices>
+      <choice correct ="no">At the Cinnabar Island Gym</choice>
+      <choice correct ="no">In the Dragon's Den</choice>
+      <choice correct ="yes">In the Charicific Valley</choice>
+      <choice correct ="no">At the Solaceon Ruins </choice>
+
+    </choices>
+  </question>
+
+
+   <question id = "18">
+    <wording>?</wording>
+    <choices>
+      <choice correct ="no">Drought</choice>
+      <choice correct ="yes">Rock Head</choice>
+      <choice correct ="no">Solid Rock</choice>
+      <choice correct ="no">Shell Armor</choice>
+
+    </choices>
+  </question>
+
+ <question id = "19">
+    <wording>Which country is the Kalos region based on?</wording>
+    <choices>
+      <choice correct ="no">England</choice>
+      <choice correct ="no">Canada</choice>
+      <choice correct ="yes">France</choice>
+      <choice correct ="no">Brazil</choice>
+
+    </choices>
+  </question>
+
+ <question id = "20">
+    <wording>Which was the first Pokémon to be revealed early in the anime?</wording>
+    <choices>
+      <choice correct ="no">Togepi</choice>
+      <choice correct ="yes">Ho-oh</choice>
+      <choice correct ="no">Blaziken</choice>
+      <choice correct ="no">Moltres</choice>
+
+    </choices>
+  </question>
+
+</test>
+
+  
