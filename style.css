@@ -3,7 +3,7 @@ body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   background: linear-gradient(270deg, #ffcb05, #3b4cca, #ff0000);
   background-size: 600% 600%;
-  color: white;
+  color: red;
   text-align: center;
   animation: moviendoFondo 10s ease infinite;
 }
